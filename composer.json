@@ -1,0 +1,16 @@
+{
+    "name": "tfarias/revertstring",
+    "description": "reverte uma string usando funcao recursiva",
+    "autoload": {
+        "psr-4": {
+            "Tfarias\\Revertstring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Oliveira de Farias",
+            "email": "tiago.farias.poa@gmail.com"
+        }
+    ],
+    "require": {}
+}
