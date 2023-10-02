@@ -1,5 +1,5 @@
 {
-    "name": "tfarias/revertstring",
+    "name": "tofarias/revertstring",
     "description": "reverte uma string usando funcao recursiva",
     "autoload": {
         "psr-4": {
