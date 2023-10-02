@@ -6,7 +6,7 @@
  *
  * @author Tiago Farias <tiago.farias.poa@gmail.com>
  * 
- * @string $word
+ * @param string $word
  */
 function reverteString(string $word) : void
 {
