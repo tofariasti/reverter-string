@@ -16,5 +16,3 @@ function reverteString(string $word) : void
         reverteString(substr($word, 0,(strlen($word) - 1)));
     }
 }
-
-reverteString('Tiago Oliveira de Farias');
