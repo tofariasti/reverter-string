@@ -8,10 +8,8 @@
  * 
  * @string $word
  */
-function reverteString(string $word)
+function reverteString(string $word) : void
 {
-    $word = trim($word);
-
     if( !empty($word) )
     {
         echo ($word[strlen($word) - 1]);
@@ -19,4 +17,4 @@ function reverteString(string $word)
     }
 }
 
-echo reverteString('Tiago Oliveira de Farias');
+reverteString('Tiago Oliveira de Farias');
